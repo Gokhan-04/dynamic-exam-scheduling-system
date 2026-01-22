@@ -1,0 +1,10 @@
+Sayfa 'Ders Listesi', satir 11: 'kod' beklenen formattan farkli: 2. Sınıf
+Sayfa 'Ders Listesi', satir 12: 'kod' beklenen formattan farkli: DERS KODU
+Sayfa 'Ders Listesi', satir 20: 'kod' beklenen formattan farkli: 3. Sınıf
+Sayfa 'Ders Listesi', satir 21: 'kod' beklenen formattan farkli: DERS KODU
+Sayfa 'Ders Listesi', satir 28: 'kod' beklenen formattan farkli: SEÇMELİ DERS
+Sayfa 'Ders Listesi', satir 29: 'kod' beklenen formattan farkli: DERS KODU
+Sayfa 'Ders Listesi', satir 32: 'kod' beklenen formattan farkli: 4. Sınıf
+Sayfa 'Ders Listesi', satir 33: 'kod' beklenen formattan farkli: DERS KODU
+Sayfa 'Ders Listesi', satir 38: 'kod' beklenen formattan farkli: SEÇİMLİK DERS
+Sayfa 'Ders Listesi', satir 39: 'kod' beklenen formattan farkli: DERS KODU
